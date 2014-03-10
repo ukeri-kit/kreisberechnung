@@ -1,5 +1,5 @@
 package kreis;
-import java.lang.Math;
+
 
 
 public class kreis 
@@ -8,7 +8,7 @@ public class kreis
 	private double radius;
 	private double umfang;
 	private double flaecheninhalt;
-	private double pi = Math.PI;
+	private double pi = 3.14159;
 	
 	public void setradius(double radius) 
 	{
